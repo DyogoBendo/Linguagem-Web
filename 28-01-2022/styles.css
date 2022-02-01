@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(138, 138, 226);
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
