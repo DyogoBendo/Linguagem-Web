@@ -27,5 +27,5 @@
             exit();          
         }         
      }
-     CloseConn($conn);
+     CloseCon($conn);
   ?>
